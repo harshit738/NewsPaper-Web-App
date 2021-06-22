@@ -1,0 +1,49 @@
+{
+  "ET": {
+    "0": "There is some bad news and some good news for the country's savers",
+    "1": "Honey, I shrunk your business. Covid gives India a sweet edge over China",
+    "2": "A big basket at small price: How Tatas clinched an amazingly sweet deal",
+    "3": "Indian airlines wrangle for passengers as vaccination drive gains pace",
+    "4": "What's driving Chinese parents to sacrifice everything for education",
+    "5": "Five reasons for unlocking to be a function of positivity rates, not jab rates",
+    "6": "Making sense of the massive turnaround in India's FPI flows",
+    "7": "India’s oldest surviving private airline readies for takeoff. NCLT set to rule on Jet's formula",
+    "img": "https://img.etimg.com/thumb/msid-83724494,width-100,height-75,quality-100,imgsize-625840,resizemode-4/a-big-basket-at-small-price-how-tatas-clinched-an-amazingly-sweet-deal.jpg"
+  },
+  "Hindu": {
+    "0": "Perarivalan seeks bail, says ‘stalemate’ over his release is ‘completely political’",
+    "1": "Surveys on learning losses by month end, panel told ",
+    "2": "The state of India’s poor must be acknowledged",
+    "3": "With Raisi in the saddle, the road ahead for Iran",
+    "4": "India’s vaccine policy needs clarity",
+    "5": "Towards a more federal structure",
+    "6": "Ahead of Opposition conclave, Pawar meets Prashant Kishor",
+    "img": "https://img.etimg.com/thumb/msid-83728238,width-100,height-75,quality-100,imgsize-697558,resizemode-4/indian-airlines-wrangle-for-passengers-as-vaccination-drive-gains-pace.jpg"
+  },
+  "HT": {
+    "0": "Narada case: SC judge recuses himself from hearing Bengal CM’s petition",
+    "1": "Rahul Gandhi releases report Covid-19, says aim not to ‘point fingers’",
+    "2": "Will Abhijit Mukherjee join TMC? His meet with Abhishek Banerjee sparks buzz",
+    "3": "Nusrat Jahan's marital status questioned again, BJP leader calls for probe",
+    "4": "‘Yoga originated in Nepal’: KP Sharma Oli’s latest startling claim",
+    "5": "IND vs NZ, WTC Final: Mostly cloudy weather today; some rain expected",
+    "6": "KRK asks Abhishek, Varun, Kartik to ‘save Bollywood’ by acting in his film",
+    "img": "https://img.etimg.com/thumb/msid-83724192,width-100,height-75,quality-100,imgsize-470261,resizemode-4/whats-driving-chinese-parents-to-sacrifice-everything-for-education.jpg"
+  },
+  "TOI": {
+    "0": "Explained: What is a DNA vaccine",
+    "1": "Covid-19: India reports 42,640 new cases,  1,167  deaths in last 24 hours",
+    "2": "No new Covid-19 death in Jharkhand, total cases at 3,44,543",
+    "3": "UK records 10,633 new Covid-19 cases",
+    "4": "Will consider insurance cover to workers performing last rites of Covid victims, Centre tells SC",
+    "5": "Record 80 lakh Covid vaccine doses administered on day one of revised guidelines",
+    "6": "Joe Biden promotes milestone of 300 million vaccine shots in 150 days",
+    "img": "https://img.etimg.com/thumb/msid-83736156,width-100,height-75,quality-100,imgsize-296305,resizemode-4/honey-i-shrunk-your-business-covid-gives-india-a-sweet-edge-over-china.jpg"
+  },
+  "covid": {
+    "0": "6,62,521",
+    "1": "2,99,77,861",
+    "2": "2,89,26,038",
+    "3": "3,89,302"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "NewsPaper_App",
+  "version": "1.0.0",
+  "description": "",
+  "main": "finalData.js",
+  "dependencies": {
+    "puppeteer": "^9.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
